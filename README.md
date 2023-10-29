@@ -1,10 +1,10 @@
-<h1>Hi, I'm Usman! <br/><a href="https://github.com/usman024">Programmer</a>, <a href="https://www.linkedin.com/in/usman-khalid-9aa1a41b3/">Web developer</a>, <a href="">Facebook Business Manager</a>, <a href="https://wasalcart.com/">DropShipper</a>, <a href="">Youtuber</a></h1> 
+<h1>Hi, I'm Usman! <br/><a href="https://github.com/usman024">Programmer</a>, <a href="https://www.linkedin.com/in/usman-khalid-9aa1a41b3/">Web developer</a>, <a href="">Facebook Business Manager</a>, <a href="https://wasalcart.com/">DropShipper</a>, <a href="https://www.youtube.com/@usmankhalid857">Youtuber</a></h1> 
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Savari. For OMC Global Organization (only in Schengen and Golf Countries)</b>
   - [Savari Dashboard](https://github.com/13-Pixels/savari-frontend)
-  - [Savari Booking](https://github.com/13-Pixels/Savari-Forms) 
+  - [Savari Bookings](https://github.com/13-Pixels/Savari-Forms) 
   - Also Implemented <a href="https://www.here.com/">HereMap</a> and <a href="https://getaddress.io/">GetAddress</a>
 
 - <b>Bootstrap (German Platform)</b>
