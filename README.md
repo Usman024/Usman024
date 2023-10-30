@@ -9,6 +9,7 @@
 
 - <b>Bootstrap (German Platform)</b>
   - [For Programmers to learn, Teach and make a job](https://github.com/Bootstrap-Academy/frontend)
+  - [Admin Dashboard](https://github.com/Bootstrap-Academy/admin-dashboard)
 - <b>Firtops For fitness and Online meetings, calls with trainers and many more </b>
   - [Consumer](https://github.com/fitrops/consumer-web)</i>
   - [Instructor Dashboard](https://github.com/fitrops/instructor-web)</i>
