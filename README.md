@@ -5,7 +5,7 @@
 - <b>Savari. For OMC Global Organization (Schengen and Golf Countries Standard)</b>
   - [Savari Dashboard](https://github.com/13-Pixels/savari-frontend)
   - [Savari Bookings](https://github.com/13-Pixels/Savari-Forms) 
-  - Also Implemented <a href="https://www.here.com/">HereMap</a> and <a href="https://getaddress.io/">GetAddress</a>
+  - Implemented <a href="https://www.here.com/">HereMap</a> and <a href="https://getaddress.io/">GetAddress</a>
 
 - <b>Bootstrap (German Platform)</b>
   - [For Programmers to learn, Teach and make a job](https://github.com/Bootstrap-Academy/frontend)
